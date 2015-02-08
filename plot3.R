@@ -1,7 +1,7 @@
 ############################################################################
-#       Exploratory Data Analysis: Project 1                               #
+#       Exploratory Data Analysis: Project 1 Plot 3                        #
 #                                                                          #
-#       With UC Irvine Machine Learning Repository:                        #
+#       UC Irvine Machine Learning Repository:                             #
 #               Individual household electric power consumption Data Set   #
 #                                                                          #
 #       Lichman, M. (2013). UCI Machine Learning Repository                #
